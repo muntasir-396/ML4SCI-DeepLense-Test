@@ -1,0 +1,14 @@
+{
+  "id": "muntasirmamun396/ml4sci-deeplense-common-test-1",
+  "title": "ml4sci-deeplense-common-test-1",
+  "code_file": "Common_Test_I_Classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

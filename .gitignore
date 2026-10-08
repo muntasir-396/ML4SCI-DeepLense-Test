@@ -1,0 +1,18 @@
+# Data & Archives
+deeplense_data/
+dataset.zip
+*.npy
+*.zip
+
+# PyTorch weights
+*.pth
+*.pt
+
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Kaggle metadata / temp
+__results__.html
+__notebook__.ipynb

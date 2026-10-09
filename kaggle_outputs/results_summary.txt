@@ -1,0 +1,16 @@
+Macro-Average ROC-AUC: 0.9913
+Class no AUC: 0.9928
+Class sphere AUC: 0.9869
+Class vort AUC: 0.9942
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          no       0.89      1.00      0.94      1250
+      sphere       0.98      0.87      0.92      1250
+        vort       0.95      0.95      0.95      1250
+
+    accuracy                           0.94      3750
+   macro avg       0.94      0.94      0.94      3750
+weighted avg       0.94      0.94      0.94      3750
+
